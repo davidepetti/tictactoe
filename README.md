@@ -1,4 +1,3 @@
 # tictactoe
-The famous tictactoe game.
-There are no special instructions to run it, simply once downloaded execute:
-    python tictactoe.py
+The famous tictactoe game made as a Milestone Project for the Udemy course:
+Complete Python Bootcamp: Go from zero to hero in Python 3.
