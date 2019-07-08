@@ -65,6 +65,8 @@ def replay():
 	return input('Do you want to play again? Enter Yes or No: ').lower().startswith('y')
 
 
+###### Main game loop ######
+
 print('Welcome to Tic Tac Toe!')
 
 while True:
